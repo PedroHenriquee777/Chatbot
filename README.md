@@ -35,11 +35,11 @@ The chatbot was developed for a fictional company included in the program. It ca
 
 For example, if you type one of the numbered options from 1 to 5, the chatbot will identify and respond automatically:
 
-"1". Option 1
-"2". Option 2
-"3". Option 3
-"4". Option 4
-"5". Option 5
+"1". Option 1 <br>
+"2". Option 2 <br>
+"3". Option 3 <br>
+"4". Option 4 <br>
+"5". Option 5 <br>
 
 ## Technologies Used
 
@@ -50,4 +50,4 @@ For example, if you type one of the numbered options from 1 to 5, the chatbot wi
 
 Feel free to contribute improvements to this project. If you find any issues or have suggestions, open an **issue** or submit a **pull request**.
 
-**developed by @PedroHenrique777
+*developed by @PedroHenrique777*
