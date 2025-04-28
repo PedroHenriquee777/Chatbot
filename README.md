@@ -1,53 +1,53 @@
-# WhatsApp Chatbot
+# Chatbot para WhatsApp
 
-This project is a chatbot built using **JavaScript** and **Node.js**, integrated with the **WhatsApp Web API**. The chatbot was created to provide an automated customer service experience, where it sends automatic messages upon recognizing keywords sent by users.
+Este projeto é um chatbot desenvolvido com **JavaScript** e **Node.js**, integrado com a **API Web do WhatsApp**. O chatbot foi criado para oferecer uma experiência de atendimento automatizado, enviando mensagens automáticas ao reconhecer palavras-chave enviadas pelos usuários.
 
-## Features
+## Funcionalidades
 
-- The chatbot simulates a **fictional company** for demonstration purposes.
-- It **automatically responds** based on the keywords the user sends.
-- The user can choose one of the numbered options (from 1 to 5), and the chatbot will respond accordingly.
-  
-## Installation
+- O chatbot simula uma **empresa fictícia** para fins de demonstração.
+- Ele **responde automaticamente** com base nas palavras-chave enviadas pelo usuário.
+- O usuário pode escolher uma das opções numeradas (de 1 a 5), e o chatbot responderá de acordo.
 
-To install and run the chatbot locally, follow the steps below:
+## Instalação
 
-1. **Navigate to the project directory** in your terminal.
+Para instalar e executar o chatbot localmente, siga os passos abaixo:
 
-2. **Install the dependencies**:
-   Run the following command to install all the project's dependencies:
+1. **Acesse o diretório do projeto** no seu terminal.
+
+2. **Instale as dependências**:  
+   Execute o seguinte comando para instalar todas as dependências do projeto:
    ```bash
    npm install
    ```
 
-3. **Start the server**:
-   After the dependencies are installed, you can start the chatbot with:
+3. **Inicie o servidor**:  
+   Após instalar as dependências, você pode iniciar o chatbot com:
    ```bash
    npm start
    ```
 
-4. **Connect to WhatsApp Web**:
-   The chatbot uses the WhatsApp Web API. Open WhatsApp Web in your browser and scan the QR code with your mobile WhatsApp app.
+4. **Conecte-se ao WhatsApp Web**:  
+   O chatbot utiliza a API Web do WhatsApp. Abra o WhatsApp Web no seu navegador e escaneie o código QR com o app do WhatsApp no seu celular.
 
-## Demo
+## Demonstração
 
-The chatbot was developed for a fictional company included in the program. It can respond to various types of questions based on the keywords you send.
+O chatbot foi desenvolvido para uma empresa fictícia incluída no programa. Ele pode responder a vários tipos de perguntas com base nas palavras-chave que você enviar.
 
-For example, if you type one of the numbered options from 1 to 5, the chatbot will identify and respond automatically:
+Por exemplo, se você digitar uma das opções numeradas de 1 a 5, o chatbot irá identificar e responder automaticamente:
 
-"1". Option 1 <br>
-"2". Option 2 <br>
-"3". Option 3 <br>
-"4". Option 4 <br>
-"5". Option 5 <br>
+"1". Opção 1 <br>  
+"2". Opção 2 <br>  
+"3". Opção 3 <br>  
+"4". Opção 4 <br>  
+"5". Opção 5 <br>
 
-## Technologies Used
+## Tecnologias Utilizadas
 
-- **JavaScript** and **Node.js**
-- **WhatsApp Web API**
+- **JavaScript** e **Node.js**
+- **API Web do WhatsApp**
 
-## Contribution
+## Contribuição
 
-Feel free to contribute improvements to this project. If you find any issues or have suggestions, open an **issue** or submit a **pull request**.
+Sinta-se à vontade para contribuir com melhorias para este projeto. Se encontrar algum problema ou tiver sugestões, abra uma **issue** ou envie um **pull request**.
 
-*developed by @PedroHenrique777*
+*Desenvolvido por @PedroHenrique777*
